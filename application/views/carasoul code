@@ -1,0 +1,84 @@
+<section id= "feat">
+
+  <article id="b" class="container box style3">
+  
+  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+      <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+      <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+
+      <div class="item active">
+           <a href="http://localhost/foodbasedemo/index.php/show_burger_data/pagination_data" class="image fit"><img src="images/pic01.jpg" alt="" /></a>
+          <div class="inner">
+           <header>
+              <h2>Burgers<br />
+              </h2>
+            </header>
+            <p>From cheese, fish, mushrooms, to usual beef and chicken!</p>
+          </div>
+
+        </div>
+      
+      <div class= "item">
+          <a href="http://localhost/foodbasedemo/index.php/show_chicken_data/pagination_data" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+          <div class="inner">
+            <header>
+              <h2>Chickens<br />
+              </h2>
+            </header>
+            <p>From baked, roasted to fried. Get it now!</p>
+          </div>
+      </div>
+
+      
+      <div class= "item">
+          <a href="http://localhost/foodbasedemo/index.php/show_pizza_data/pagination_data" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+          <div class="inner">
+            <header>
+              <h2>Pizza<br />
+              </h2>
+            </header>
+            <p>Mushrooms, Beef, Italian...try it now!</p>
+          </div>
+      </div>
+      
+      <div class= "item">
+          <a href="http://localhost/foodbasedemo/index.php/show_drinks_data/pagination_data" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+          <div class="inner">
+            <header>
+              <h2>Drinks<br />
+              </h2>
+            </header>
+            <p>No more thirst! From chilled to the hottest in town...</p>
+          </div>
+
+       
+      </div>
+      
+
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+
+
+  </div></div>
+
+
+</article>
+</section>
+
+ 

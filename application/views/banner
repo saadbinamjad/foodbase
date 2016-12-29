@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<style type="text/css">
+#banner {
+background-attachment: scroll, fixed;
+background-color: #666;
+background-image: url(file:///F:/html5up-alpha/css/images/overlay.png), url(file:///F:/html5up-alpha/images/banner.jpg);
+background-position: 0% 0%, 50% 50%;
+background-repeat: repeat, no-repeat;
+background-size: , cover;
+color: white;
+padding: 12em 0px 20em;
+text-align: center;
+}
+<section id="banner">
+
+				<h2>Alpha</h2>
+				<p>Another fine responsive site template freebie by HTML5 UP.</p>
+				<ul class="actions">
+					<li><a href="#" class="button special">Sign Up</a></li>
+					<li><a href="#" class="button">Learn More</a></li>
+				</ul>
+
+			</section>
